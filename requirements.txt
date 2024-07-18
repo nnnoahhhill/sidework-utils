@@ -1,0 +1,8 @@
+requests
+simple-term-menu
+pandas
+matplotlib
+numpy
+scipy
+tk
+pytz
